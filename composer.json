@@ -1,0 +1,17 @@
+{
+    "name": "pausegarra/binaryTree",
+    "description": "A BinaryTree library for PHP",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Pau Segarra",
+        "email": "pausegarra.b@gmail.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "BinaryTree\\": "src/"
+      }
+    }
+  }
