@@ -1,5 +1,5 @@
 {
-    "name": "pausegarra/binaryTree",
+    "name": "pausegarra/binary_tree",
     "description": "A BinaryTree library for PHP",
     "minimum-stability": "dev",
     "license": "MIT",
